@@ -1,7 +1,7 @@
 ### Olá, meu nome é Márlon Moreira 👋
 
-- Sou Cientista de Dados
-- Estudando Artificial Intelligence for trading na Udacity
+- Sou estagiário de Ciência de Dados na eSapiens
+- Estudando Ciência de Dados na Estácio
 ### Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
