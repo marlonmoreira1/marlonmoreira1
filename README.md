@@ -3,7 +3,8 @@
 - Estudando Ciência de Computação na Estácio
 ### Linguagens:
 <div style="display: inline_block">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img alt="BigQuery" height="30" width="40" src="https://www.gstatic.com/devrel-devsite/prod/v6f989937b0e2dd32d77a6e4966a8fd3f7294a1bcf8e992b9374009236662d17e/cloud/images/favicons/onecloud/supercloud/bigquery-96.png">
   <img alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> 
   <img alt="Azure SQL Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img alt="Azure" height="30" width="auto" src="https://img.icons8.com/color/48/000000/azure-1.png">
