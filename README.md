@@ -5,9 +5,9 @@
 <div style="display: inline_block">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img alt="BigQuery" height="30" width="40" src="https://img.icons8.com/color/48/000000/google-bigquery.png">
+  <img alt="BigQuery" height="30" width="auto" src="https://img.icons8.com/color/48/000000/google-bigquery.png">
   <img alt="Azure SQL Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img alt="Azure" height="30" width="40" src="https://img.icons8.com/color/48/000000/azure-1.png">
+  <img alt="Azure" height="30" width="auto" src="https://img.icons8.com/color/48/000000/azure-1.png">
   <img alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img alt="Apache Airflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
   <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
