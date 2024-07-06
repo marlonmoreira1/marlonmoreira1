@@ -1,7 +1,7 @@
 ### Olá, meu nome é Márlon Almeida 👋
 
 - Estudando Ciência de Computação na Estácio
-### Linguagens:
+### Tecnologias:
 <div style="display: inline_block">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
   <img alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">  
