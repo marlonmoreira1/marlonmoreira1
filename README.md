@@ -1,6 +1,7 @@
 ### Olá, meu nome é Márlon Moreira de Almeida 👋
 
-- Estudando Ciência de Computação na Estácio
+- Estudando Ciência de Computação
+- Movido por dados, curios e eterno aprendiz
 ### Tecnologias:
 <div style="display: inline_block">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
