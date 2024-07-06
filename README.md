@@ -1,4 +1,4 @@
-### Olá, meu nome é Márlon Almeida 👋
+### Olá, meu nome é Márlon Moreira de Almeida 👋
 
 - Estudando Ciência de Computação na Estácio
 ### Tecnologias:
