@@ -13,6 +13,8 @@
   <img alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
   <img alt="Power BI" height="30" width="auto" src="https://img.icons8.com/color/48/000000/power-bi.png">
   <img alt="Tableau" height="30" width="auto" src="https://img.icons8.com/color/48/000000/tableau-software.png">
+  <img alt="Excel" height="30" width="auto" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+</div>
 </div>
 
 
