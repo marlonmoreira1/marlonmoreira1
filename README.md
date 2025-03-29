@@ -1,7 +1,7 @@
 ### Olá, meu nome é Márlon Moreira de Almeida 👋
 
 - Estudando Ciência de Computação
-- Movido por dados, curioso e eterno aprendiz
+- Capacidade de criar soluções integradas que transformam dados brutos em instrumentos estratégicos para tomada de decisão empresarial.
 ### Tecnologias:
 <div style="display: inline_block">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
@@ -18,14 +18,14 @@
 </div>
 
 
-
-
-
 ### Contate-me:
 <div>
   <a href = "mailto:marlonm.almeida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marlonmalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/marlonmalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@marlonm.almeida" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
 </div>
 
 ### Site:
-https://marlonmoreira1.github.io/portfolio/
+https://www.datascienceportfol.io/marlonmalmeida
